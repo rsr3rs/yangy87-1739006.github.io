@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>My page</title>
+  <link>https://yangy87-1739006.github.io/index.html</link>
+  <description>Robin's page for INFO 101</description>
+  <item>
+    <title>embedding work</title>
+    <link>https://yangy87-1739006.github.io/embeddingOriginalWork.html</link>
+    <description>Robin's original embedding work</description>
+  </item>
+  <author>yangy87@uw.edu</author>
+</channel>
+
+</rss>
