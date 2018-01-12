@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+#fl {
+    float: middle;
+	background-color:purple;
+	color:white;
+	padding:16px;
+	text-align:center;
+}
+
+#rcorners {
+    border-radius: 15px 15px 50px 50px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+}
