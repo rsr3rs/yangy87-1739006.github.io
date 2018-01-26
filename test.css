@@ -1,7 +1,8 @@
 
 #Header {
 	opacity: 0.5;
-	position: fixed center;
+	position: fixed;
+	right:0;
 	border:solid 8px black;
 	width:500px;
 	margin-left:auto;
